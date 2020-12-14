@@ -45,7 +45,7 @@ The speed with which the flakes fall.
         flakeDensity: 3,
         fallingSpeed: 3
       };
-      var falling = new Blizzard('parentID');
+      var falling = new Blizzard('parentID', options);
     </script>```
 
 
